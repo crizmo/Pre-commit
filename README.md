@@ -4,7 +4,7 @@ Style guide for writing GitHub commit messages.
 
 | No.  | Emoji | Names                    | Example                                                   |
 | :--- | :---: | :----------------------- | :-------------------------------------------------------- |
-| 01   |  🧰   | `update`                 | `🧰: add docstrings and type hinting`                     |
+| 01   |  🧰   | `update`                 | `🧰: Updated app workings`                                |
 | 02   |  🔨   | `fix`, `bug`             | `🔨: fix broken control header (#4)`                      |
 | 03   |  🛠️   | `patch`                  | `🛠️: update token signing method for HTTP requests (#12)` |
 | ️️04 |  🔀   | `merge`                  | `🔀: merge pull request from user/patch-1`                |
