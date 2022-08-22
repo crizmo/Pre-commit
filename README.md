@@ -18,5 +18,6 @@ Style guide for writing GitHub commit messages.
 | 12   |  ⚖️   | `legal`, `license`       | `⚖️: add GNU GPL v3 license` `⚖️: update license year`    |
 | 13   |  📍   | `minor changes`          | `🤏: Changed a footer element`                            |
 | 14   |  🐛   | `fix`             | `🐛: fix a bug`                      |
+| 14   |  🗼  | `new`             | `🗼: added new cool stuff`                      |
 
 I think this is a good way to write commit messages also it looks good .
