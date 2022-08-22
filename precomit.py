@@ -2,6 +2,7 @@ import pyperclip as pc
 
 def main():
     unicode = {
+        "new": "🗼",
         "update": "✨",
         "fix": "🔨",
         "patch": "🤝",
